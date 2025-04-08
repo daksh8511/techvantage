@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.bluetext{
+  color: #18216d;
+}
